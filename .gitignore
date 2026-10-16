@@ -92,3 +92,12 @@ test-results/
 
 # Opt-in CI timing artifacts
 .ci-profile/
+
+# Trinity Method SDK
+*CLAUDE.md
+.claude/agents/
+.claude/commands/
+.claude/EMPLOYEE-DIRECTORY.md
+.claude/settings.json
+.claude/trinity/*
+!.claude/trinity/work-orders/
